@@ -1,0 +1,18 @@
+
+## Backgrounds
+## -----------------------------------------------------------
+###btag
+#incl_prompts        : + ; IncludeMca="RunII_SM_WZ/2016/includes/mca_prompts_nanoAODv4_btag.txt"
+
+###puw
+incl_prompts        : + ; IncludeMca="RunII_SM_WZ/2016/includes/mca_prompts_nanoAODv4_puw.txt"
+
+####jec
+#incl_jec_scale : +; IncludeMca="RunII_SM_WZ/2016/includes/mca_promptsconvs_sys_jec.txt"
+
+
+###MuScale
+#incl_prompts        : + ; IncludeMca="RunII_SM_WZ/2016/includes/mca_prompts_nanoAODv4_MuEff.txt"
+
+###ElScale
+#incl_prompts        : + ; IncludeMca="RunII_SM_WZ/2016/includes/mca_prompts_nanoAODv4_ElEff.txt"
